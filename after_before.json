@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "type": "beforeAfter",
+    "images": [
+      {
+        "url": "https://tse3.mm.bing.net/th/id/OIP.Fuo4J6bbGotbqV9Tbl-A9AHaHy?pid=Api"
+      },
+      {
+        "url": "https://tse3.mm.bing.net/th/id/OIP.kJeCvlj1W1OUIBdekJqhigHaHa?pid=Api"
+      }
+    ],
+    "title": {
+      "tr": "Yeni Gülüşünüzle Tanışın",
+      "en": "Meet Your New Smile",
+      "de": "Lernen Sie Ihr neues Lächeln kennen",
+      "fr": "Découvrez votre nouveau sourire",
+      "ru": "Познакомьтесь с вашей новой улыбкой",
+      "es": "Conoce tu nueva sonrisa",
+      "it": "Scopri il tuo nuovo sorriso",
+      "nl": "Ontdek uw nieuwe glimlach"
+    },
+    "description": {
+      "tr": "Dönüşümü keşfedin",
+      "en": "Discover the transformation",
+      "de": "Entdecken Sie die Verwandlung",
+      "fr": "Découvrez la transformation",
+      "ru": "Откройте для себя преображение",
+      "es": "Descubre la transformación",
+      "it": "Scopri la trasformazione",
+      "nl": "Ontdek de transformatie"
+    },
+    "order": 1
+  },
+  {
+    "id": 2,
+    "type": "beforeAfter",
+    "images": [
+      {
+        "url": "https://tse3.mm.bing.net/th/id/OIP.ulXcDiJlnbbg0kWzMXNTXAHaEJ?pid=Api"
+      },
+      {
+        "url": "https://tse2.mm.bing.net/th/id/OIP.er7xaEJTzGbxdl0FrubnHQHaEJ?pid=Api"
+      }
+    ],
+    "title": {
+      "tr": "Öncesi ve Sonrası",
+      "en": "Before & After",
+      "de": "Vorher & Nachher",
+      "fr": "Avant / Après",
+      "ru": "До и После",
+      "es": "Antes y Después",
+      "it": "Prima e Dopo",
+      "nl": "Voor en Na"
+    },
+    "description": {
+      "tr": "Gerçek sonuçları kendi gözlerinizle görün.",
+      "en": "See the real results with your own eyes.",
+      "de": "Sehen Sie die echten Ergebnisse mit eigenen Augen.",
+      "fr": "Voyez les résultats réels de vos propres yeux.",
+      "ru": "Увидьте реальные результаты своими глазами.",
+      "es": "Mira los resultados reales con tus propios ojos.",
+      "it": "Guarda i risultati reali con i tuoi occhi.",
+      "nl": "Zie de echte resultaten met eigen ogen."
+    },
+    "order": 2
+  }
+]

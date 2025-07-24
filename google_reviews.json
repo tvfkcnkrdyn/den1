@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "translations": {
+      "tr": {
+        "author": "Mehmet Yıldız",
+        "text": "Çok memnun kaldım, diş hekimleri çok ilgiliydi.",
+        "rating": 5
+      },
+      "en": {
+        "author": "Mehmet Yildiz",
+        "text": "I was very satisfied, the dentists were very attentive.",
+        "rating": 5
+      }
+    },
+    "date": "2024-06-01T10:00:00Z",
+    "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/AOh14GgEXAMPLE",
+    "reviewUrl": "https://g.co/kgs/example1",
+    "visible": true
+  },
+  {
+    "id": 2,
+    "translations": {
+      "tr": {
+        "author": "Ayşe Demir",
+        "text": "Klinik çok temiz ve modern, herkese tavsiye ederim.",
+        "rating": 5
+      },
+      "en": {
+        "author": "Ayse Demir",
+        "text": "The clinic is very clean and modern, I recommend it to everyone.",
+        "rating": 5
+      }
+    },
+    "date": "2024-05-20T15:30:00Z",
+    "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/AOh14GgEXAMPLE2",
+    "reviewUrl": "https://g.co/kgs/example2",
+    "visible": true
+  }
+] 
