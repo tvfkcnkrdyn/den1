@@ -9,7 +9,6 @@ COPY dist/ ./dist
 COPY server.cjs .
 COPY package.json .
 COPY package-lock.json .
-COPY .env .         # Varsa
 COPY db.json .
 COPY appointments.json .
 COPY patients.json .
